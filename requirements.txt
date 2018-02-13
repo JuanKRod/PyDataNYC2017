@@ -5,3 +5,5 @@ mne
 pythreejs
 bqplot
 ipywidgets==7.1.1
+mxnet
+scipy
